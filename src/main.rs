@@ -1,3 +1,5 @@
+// use cast mktx then send the signed tx with this :shrug:
+
 use anyhow::{anyhow, Context, Result};
 use clap::Parser;
 use serde::Deserialize;
